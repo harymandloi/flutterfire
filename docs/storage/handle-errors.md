@@ -58,3 +58,4 @@ Code                             | Description
 `storage/no-default-bucket`      | No bucket has been set in your config's `storageBucket` property.
 `storage/cannot-slice-blob`      | Commonly occurs when the local file has changed (deleted, saved again, etc.). Try uploading again after verifying that the file hasn't changed.
 `storage/server-file-wrong-size` | File on the client does not match the size of the file recieved by the server. Try uploading again.
+'storage/channel-error'          | Unable tostablish connection on channel.
